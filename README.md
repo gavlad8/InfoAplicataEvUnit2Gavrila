@@ -1,4 +1,4 @@
-# Evaluarea Unității 2 - Gavrila Vladut-Vasile
+# Evaluarea Unit 2 - Gavrila Vladut-Vasile
 
 Acesta este repository-ul pentru evaluarea Unității 2, realizat de **Gavrila Vladut-Vasile**. Proiectul constă într-o pagină web care oferă informații detaliate despre rețeaua personală, configurația calculatorului și resursele monitorizate, fiind realizată folosind HTML, CSS și JavaScript.
 
